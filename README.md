@@ -1,7 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=🌱)
+
+<!--Spring boot-->
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/spring_boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=mySql&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 
 
-### Hi there 👋
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wodndhksk&show_icons=true&theme=radical)
+
 
 <!--
 **wodndhksk/wodndhksk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
